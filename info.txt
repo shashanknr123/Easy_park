@@ -1,0 +1,6 @@
+home.html ----- home.css& 11.css
+update.html-cstyle.css
+admn.html--dstyle.css
+vdetails.html---vstyle.css
+slot.html---sstyle.css
+ddetails.html--dstyle.css
